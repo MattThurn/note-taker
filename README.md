@@ -11,4 +11,4 @@ This is an express app that will take the notes you save on the screen and then 
 
 Repo: https://github.com/MattThurn/note-taker
 
-Deployed:
+Deployed: https://note-taker65436.herokuapp.com/
